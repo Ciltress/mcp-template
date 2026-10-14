@@ -14,8 +14,8 @@ every pattern below has a working, tested instance. Each new server starts as a 
 Work through these in order; each is greppable as `TEMPLATE:` in the code and the docs.
 
 1. **Name it.** `name`, `description`, `author`, `bin` and `mcpName` in `package.json`; `name`,
-   `description`, `repository` and the package entry in `server.json`; the second copyright line in
-   `LICENSE`. The server's announced name, version and resource URI scheme all derive from
+   `description`, `repository` and the package entry in `server.json`; the copyright line in
+   `LICENSE`, if the new server has a different owner. The server's announced name, version and resource URI scheme all derive from
    `package.json` — nothing else to change.
 2. **Replace the backend.** Write your client in `src/backend/` as an interface that extends
    `Backend` (lifecycle) with your domain operations, plus an implementation. Point `AppBackend` and
