@@ -2,8 +2,14 @@
 
 Guidance for AI agents working **on this repository**. If you are an agent _using_ the running server,
 you want [`docs/MCP-Tools.md`](docs/MCP-Tools.md) instead.
-Use graphify via CLI to navigate faster through this project.
-Keep the graph up to date!
+
+## graphify
+
+This project has a graphify knowledge graph at graphify-out/.
+
+Rules:
+- If graphify-out/wiki/index.md exists, navigate it instead of reading raw files
+- After modifying code files in this session, run `graphify update .` to keep the graph current (AST-only, no API cost)
 
 ## What this is
 
