@@ -2,6 +2,8 @@
 
 Guidance for AI agents working **on this repository**. If you are an agent _using_ the running server,
 you want [`docs/MCP-Tools.md`](docs/MCP-Tools.md) instead.
+Use graphify via CLI to navigate faster through this project.
+Keeo the graph up to date!
 
 ## What this is
 
