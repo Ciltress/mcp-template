@@ -1,0 +1,2528 @@
+{
+  "nodes": [
+    {
+      "id": "tests_capabilitygate_test",
+      "label": "capabilityGate.test.ts",
+      "file_type": "code",
+      "source_file": "__tests__/capabilityGate.test.ts",
+      "source_location": "L1",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "tests_capabilitygate_test_catalogue",
+      "label": "CATALOGUE",
+      "file_type": "code",
+      "source_file": "__tests__/capabilityGate.test.ts",
+      "source_location": "L6",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "tests_capabilitygate_test_tool",
+      "label": "tool()",
+      "file_type": "code",
+      "source_file": "__tests__/capabilityGate.test.ts",
+      "source_location": "L8",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "tests_fakes",
+      "label": "fakes.ts",
+      "file_type": "code",
+      "source_file": "__tests__/fakes.ts",
+      "source_location": "L1",
+      "community": 11,
+      "community_name": "Community 11"
+    },
+    {
+      "id": "tests_fakes_seedstore",
+      "label": "seedStore()",
+      "file_type": "code",
+      "source_file": "__tests__/fakes.ts",
+      "source_location": "L22",
+      "community": 11,
+      "community_name": "Community 11"
+    },
+    {
+      "id": "tests_fakes_lifecycle",
+      "label": "LIFECYCLE",
+      "file_type": "code",
+      "source_file": "__tests__/fakes.ts",
+      "source_location": "L28",
+      "community": 11,
+      "community_name": "Community 11"
+    },
+    {
+      "id": "tests_fakes_recordingbackend",
+      "label": "recordingBackend()",
+      "file_type": "code",
+      "source_file": "__tests__/fakes.ts",
+      "source_location": "L39",
+      "community": 11,
+      "community_name": "Community 11"
+    },
+    {
+      "id": "tests_fakes_fakebackendoptions",
+      "label": "FakeBackendOptions",
+      "file_type": "code",
+      "source_file": "__tests__/fakes.ts",
+      "source_location": "L60",
+      "community": 11,
+      "community_name": "Community 11"
+    },
+    {
+      "id": "tests_fakes_domain_methods",
+      "label": "DOMAIN_METHODS",
+      "file_type": "code",
+      "source_file": "__tests__/fakes.ts",
+      "source_location": "L71",
+      "community": 11,
+      "community_name": "Community 11"
+    },
+    {
+      "id": "tests_fakes_fakebackend",
+      "label": "fakeBackend()",
+      "file_type": "code",
+      "source_file": "__tests__/fakes.ts",
+      "source_location": "L78",
+      "community": 11,
+      "community_name": "Community 11"
+    },
+    {
+      "id": "tests_guides_test",
+      "label": "guides.test.ts",
+      "file_type": "code",
+      "source_file": "__tests__/guides.test.ts",
+      "source_location": "L1",
+      "community": 6,
+      "community_name": "Community 6"
+    },
+    {
+      "id": "tests_guides_test_sample",
+      "label": "SAMPLE",
+      "file_type": "code",
+      "source_file": "__tests__/guides.test.ts",
+      "source_location": "L25",
+      "community": 6,
+      "community_name": "Community 6"
+    },
+    {
+      "id": "tests_guides_test_readguide",
+      "label": "readGuide()",
+      "file_type": "code",
+      "source_file": "__tests__/guides.test.ts",
+      "source_location": "L154",
+      "community": 6,
+      "community_name": "Community 6"
+    },
+    {
+      "id": "tests_handlercontract_test",
+      "label": "handlerContract.test.ts",
+      "file_type": "code",
+      "source_file": "__tests__/handlerContract.test.ts",
+      "source_location": "L1",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "tests_handlercontract_test_stubs",
+      "label": "Stubs",
+      "file_type": "code",
+      "source_file": "__tests__/handlerContract.test.ts",
+      "source_location": "L23",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "tests_handlercontract_test_handlersfrom",
+      "label": "handlersFrom()",
+      "file_type": "code",
+      "source_file": "__tests__/handlerContract.test.ts",
+      "source_location": "L24",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "tests_handlercontract_test_samplevalue",
+      "label": "sampleValue()",
+      "file_type": "code",
+      "source_file": "__tests__/handlerContract.test.ts",
+      "source_location": "L27",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "tests_handlercontract_test_sampleargs",
+      "label": "sampleArgs()",
+      "file_type": "code",
+      "source_file": "__tests__/handlerContract.test.ts",
+      "source_location": "L43",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "tests_handlercontract_test_catalogue",
+      "label": "catalogue",
+      "file_type": "code",
+      "source_file": "__tests__/handlerContract.test.ts",
+      "source_location": "L50",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "tests_handlercontract_test_cases",
+      "label": "cases()",
+      "file_type": "code",
+      "source_file": "__tests__/handlerContract.test.ts",
+      "source_location": "L53",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "tests_handlercontract_test_no_backend_call_expected",
+      "label": "NO_BACKEND_CALL_EXPECTED",
+      "file_type": "code",
+      "source_file": "__tests__/handlerContract.test.ts",
+      "source_location": "L59",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "tests_handlercontract_test_failure_in_payload",
+      "label": "FAILURE_IN_PAYLOAD",
+      "file_type": "code",
+      "source_file": "__tests__/handlerContract.test.ts",
+      "source_location": "L66",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "tests_httptransport_test",
+      "label": "httpTransport.test.ts",
+      "file_type": "code",
+      "source_file": "__tests__/httpTransport.test.ts",
+      "source_location": "L1",
+      "community": 12,
+      "community_name": "Community 12"
+    },
+    {
+      "id": "tests_httptransport_test_base_env",
+      "label": "BASE_ENV",
+      "file_type": "code",
+      "source_file": "__tests__/httpTransport.test.ts",
+      "source_location": "L18",
+      "community": 12,
+      "community_name": "Community 12"
+    },
+    {
+      "id": "tests_httptransport_test_accepted",
+      "label": "ACCEPTED",
+      "file_type": "code",
+      "source_file": "__tests__/httpTransport.test.ts",
+      "source_location": "L25",
+      "community": 12,
+      "community_name": "Community 12"
+    },
+    {
+      "id": "tests_httptransport_test_testableserver",
+      "label": "TestableServer",
+      "file_type": "code",
+      "source_file": "__tests__/httpTransport.test.ts",
+      "source_location": "L27",
+      "community": 13,
+      "community_name": "Community 13"
+    },
+    {
+      "id": "tests_httptransport_test_appserver",
+      "label": "AppServer",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "community": 13,
+      "community_name": "Community 13"
+    },
+    {
+      "id": "tests_httptransport_test_testableserver_starthttp",
+      "label": ".startHttp()",
+      "file_type": "code",
+      "source_file": "__tests__/httpTransport.test.ts",
+      "source_location": "L31",
+      "community": 13,
+      "community_name": "Community 13"
+    },
+    {
+      "id": "tests_httptransport_test_testableserver_createsessionserver",
+      "label": ".createSessionServer()",
+      "file_type": "code",
+      "source_file": "__tests__/httpTransport.test.ts",
+      "source_location": "L35",
+      "community": 13,
+      "community_name": "Community 13"
+    },
+    {
+      "id": "tests_httptransport_test_startserver",
+      "label": "startServer()",
+      "file_type": "code",
+      "source_file": "__tests__/httpTransport.test.ts",
+      "source_location": "L44",
+      "community": 13,
+      "community_name": "Community 13"
+    },
+    {
+      "id": "tests_httptransport_test_initializemessage",
+      "label": "initializeMessage",
+      "file_type": "code",
+      "source_file": "__tests__/httpTransport.test.ts",
+      "source_location": "L50",
+      "community": 12,
+      "community_name": "Community 12"
+    },
+    {
+      "id": "tests_httptransport_test_toolslist",
+      "label": "toolsList",
+      "file_type": "code",
+      "source_file": "__tests__/httpTransport.test.ts",
+      "source_location": "L61",
+      "community": 12,
+      "community_name": "Community 12"
+    },
+    {
+      "id": "tests_httptransport_test_headers",
+      "label": "headers()",
+      "file_type": "code",
+      "source_file": "__tests__/httpTransport.test.ts",
+      "source_location": "L63",
+      "community": 12,
+      "community_name": "Community 12"
+    },
+    {
+      "id": "tests_httptransport_test_post",
+      "label": "post()",
+      "file_type": "code",
+      "source_file": "__tests__/httpTransport.test.ts",
+      "source_location": "L69",
+      "community": 12,
+      "community_name": "Community 12"
+    },
+    {
+      "id": "tests_httptransport_test_opensession",
+      "label": "openSession()",
+      "file_type": "code",
+      "source_file": "__tests__/httpTransport.test.ts",
+      "source_location": "L73",
+      "community": 12,
+      "community_name": "Community 12"
+    },
+    {
+      "id": "tests_noteshandlers_test",
+      "label": "notesHandlers.test.ts",
+      "file_type": "code",
+      "source_file": "__tests__/notesHandlers.test.ts",
+      "source_location": "L1",
+      "community": 10,
+      "community_name": "Community 10"
+    },
+    {
+      "id": "tests_noteshandlers_test_tickingclock",
+      "label": "tickingClock()",
+      "file_type": "code",
+      "source_file": "__tests__/notesHandlers.test.ts",
+      "source_location": "L13",
+      "community": 10,
+      "community_name": "Community 10"
+    },
+    {
+      "id": "tests_noteshandlers_test_setup",
+      "label": "setup()",
+      "file_type": "code",
+      "source_file": "__tests__/notesHandlers.test.ts",
+      "source_location": "L18",
+      "community": 10,
+      "community_name": "Community 10"
+    },
+    {
+      "id": "tests_profiles_test",
+      "label": "profiles.test.ts",
+      "file_type": "code",
+      "source_file": "__tests__/profiles.test.ts",
+      "source_location": "L1",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "tests_profiles_test_tool",
+      "label": "tool()",
+      "file_type": "code",
+      "source_file": "__tests__/profiles.test.ts",
+      "source_location": "L14",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "tests_profiles_test_catalogue",
+      "label": "CATALOGUE",
+      "file_type": "code",
+      "source_file": "__tests__/profiles.test.ts",
+      "source_location": "L21",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "tests_profiles_test_named",
+      "label": "named()",
+      "file_type": "code",
+      "source_file": "__tests__/profiles.test.ts",
+      "source_location": "L25",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "tests_responsebudget_test",
+      "label": "responseBudget.test.ts",
+      "file_type": "code",
+      "source_file": "__tests__/responseBudget.test.ts",
+      "source_location": "L1",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "tests_responsebudget_test_envelope",
+      "label": "envelope()",
+      "file_type": "code",
+      "source_file": "__tests__/responseBudget.test.ts",
+      "source_location": "L14",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "tests_responsebudget_test_catalogue",
+      "label": "CATALOGUE",
+      "file_type": "code",
+      "source_file": "__tests__/responseBudget.test.ts",
+      "source_location": "L17",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "tests_responsebudget_test_hintof",
+      "label": "hintOf()",
+      "file_type": "code",
+      "source_file": "__tests__/responseBudget.test.ts",
+      "source_location": "L18",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "tests_server_test",
+      "label": "server.test.ts",
+      "file_type": "code",
+      "source_file": "__tests__/server.test.ts",
+      "source_location": "L1",
+      "community": 11,
+      "community_name": "Community 11"
+    },
+    {
+      "id": "tests_server_test_base_env",
+      "label": "BASE_ENV",
+      "file_type": "code",
+      "source_file": "__tests__/server.test.ts",
+      "source_location": "L22",
+      "community": 11,
+      "community_name": "Community 11"
+    },
+    {
+      "id": "tests_server_test_connect",
+      "label": "connect()",
+      "file_type": "code",
+      "source_file": "__tests__/server.test.ts",
+      "source_location": "L28",
+      "community": 11,
+      "community_name": "Community 11"
+    },
+    {
+      "id": "tests_server_test_payloadof",
+      "label": "payloadOf()",
+      "file_type": "code",
+      "source_file": "__tests__/server.test.ts",
+      "source_location": "L39",
+      "community": 11,
+      "community_name": "Community 11"
+    },
+    {
+      "id": "tests_server_test_call",
+      "label": "call()",
+      "file_type": "code",
+      "source_file": "__tests__/server.test.ts",
+      "source_location": "L40",
+      "community": 11,
+      "community_name": "Community 11"
+    },
+    {
+      "id": "tests_servermanifest_test",
+      "label": "serverManifest.test.ts",
+      "file_type": "code",
+      "source_file": "__tests__/serverManifest.test.ts",
+      "source_location": "L1",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "tests_servermanifest_test_manifest",
+      "label": "manifest",
+      "file_type": "code",
+      "source_file": "__tests__/serverManifest.test.ts",
+      "source_location": "L17",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "tests_servermanifest_test_packagejson",
+      "label": "packageJson",
+      "file_type": "code",
+      "source_file": "__tests__/serverManifest.test.ts",
+      "source_location": "L18",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "tests_servermanifest_test_declarednames",
+      "label": "declaredNames",
+      "file_type": "code",
+      "source_file": "__tests__/serverManifest.test.ts",
+      "source_location": "L23",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "tests_servermanifest_test_environmentvariablesreadbysource",
+      "label": "environmentVariablesReadBySource()",
+      "file_type": "code",
+      "source_file": "__tests__/serverManifest.test.ts",
+      "source_location": "L33",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "tests_servermanifest_test_deliberately_undeclared",
+      "label": "DELIBERATELY_UNDECLARED",
+      "file_type": "code",
+      "source_file": "__tests__/serverManifest.test.ts",
+      "source_location": "L58",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "tests_skills_test",
+      "label": "skills.test.ts",
+      "file_type": "code",
+      "source_file": "__tests__/skills.test.ts",
+      "source_location": "L1",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "tests_tooldefinitions_test",
+      "label": "toolDefinitions.test.ts",
+      "file_type": "code",
+      "source_file": "__tests__/toolDefinitions.test.ts",
+      "source_location": "L1",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "tests_tooldefinitions_test_handlers",
+      "label": "handlers",
+      "file_type": "code",
+      "source_file": "__tests__/toolDefinitions.test.ts",
+      "source_location": "L9",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "tests_tooldefinitions_test_alltools",
+      "label": "allTools",
+      "file_type": "code",
+      "source_file": "__tests__/toolDefinitions.test.ts",
+      "source_location": "L10",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "tests_tooldocs_test",
+      "label": "toolDocs.test.ts",
+      "file_type": "code",
+      "source_file": "__tests__/toolDocs.test.ts",
+      "source_location": "L1",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "tests_tooldocs_test_tool",
+      "label": "tool()",
+      "file_type": "code",
+      "source_file": "__tests__/toolDocs.test.ts",
+      "source_location": "L13",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "backend_backend",
+      "label": "Backend.ts",
+      "file_type": "code",
+      "source_file": "backend/Backend.ts",
+      "source_location": "L1",
+      "community": 10,
+      "community_name": "Community 10"
+    },
+    {
+      "id": "backend_backend_backend",
+      "label": "Backend",
+      "file_type": "code",
+      "source_file": "backend/Backend.ts",
+      "source_location": "L23",
+      "community": 10,
+      "community_name": "Community 10"
+    },
+    {
+      "id": "backend_backend_healthreport",
+      "label": "HealthReport",
+      "file_type": "code",
+      "source_file": "backend/Backend.ts",
+      "source_location": "L68",
+      "community": 10,
+      "community_name": "Community 10"
+    },
+    {
+      "id": "backend_backend_permanentbackenderror",
+      "label": "PermanentBackendError",
+      "file_type": "code",
+      "source_file": "backend/Backend.ts",
+      "source_location": "L79",
+      "community": 10,
+      "community_name": "Community 10"
+    },
+    {
+      "id": "backend_backend_ispermanent",
+      "label": "isPermanent()",
+      "file_type": "code",
+      "source_file": "backend/Backend.ts",
+      "source_location": "L84",
+      "community": 10,
+      "community_name": "Community 10"
+    },
+    {
+      "id": "backend_backend_sessionexpirederror",
+      "label": "SessionExpiredError",
+      "file_type": "code",
+      "source_file": "backend/Backend.ts",
+      "source_location": "L93",
+      "community": 10,
+      "community_name": "Community 10"
+    },
+    {
+      "id": "backend_index",
+      "label": "index.ts",
+      "file_type": "code",
+      "source_file": "backend/index.ts",
+      "source_location": "L1",
+      "community": 10,
+      "community_name": "Community 10"
+    },
+    {
+      "id": "backend_index_appbackend",
+      "label": "AppBackend",
+      "file_type": "code",
+      "source_file": "backend/index.ts",
+      "source_location": "L13",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "backend_index_required_env",
+      "label": "REQUIRED_ENV",
+      "file_type": "code",
+      "source_file": "backend/index.ts",
+      "source_location": "L23",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "backend_index_backendoptions",
+      "label": "BackendOptions",
+      "file_type": "code",
+      "source_file": "backend/index.ts",
+      "source_location": "L25",
+      "community": 10,
+      "community_name": "Community 10"
+    },
+    {
+      "id": "backend_index_createbackend",
+      "label": "createBackend()",
+      "file_type": "code",
+      "source_file": "backend/index.ts",
+      "source_location": "L41",
+      "community": 10,
+      "community_name": "Community 10"
+    },
+    {
+      "id": "backend_notes",
+      "label": "notes.ts",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L1",
+      "community": 9,
+      "community_name": "Community 9"
+    },
+    {
+      "id": "backend_notes_note",
+      "label": "Note",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L16",
+      "community": 9,
+      "community_name": "Community 9"
+    },
+    {
+      "id": "backend_notes_notesummary",
+      "label": "NoteSummary",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L24",
+      "community": 9,
+      "community_name": "Community 9"
+    },
+    {
+      "id": "backend_notes_notesearch",
+      "label": "NoteSearch",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L33",
+      "community": 9,
+      "community_name": "Community 9"
+    },
+    {
+      "id": "backend_notes_notesearchresult",
+      "label": "NoteSearchResult",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L42",
+      "community": 9,
+      "community_name": "Community 9"
+    },
+    {
+      "id": "backend_notes_newnote",
+      "label": "NewNote",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L48",
+      "community": 9,
+      "community_name": "Community 9"
+    },
+    {
+      "id": "backend_notes_notepatch",
+      "label": "NotePatch",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L54",
+      "community": 9,
+      "community_name": "Community 9"
+    },
+    {
+      "id": "backend_notes_notesbackend",
+      "label": "NotesBackend",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L61",
+      "community": 9,
+      "community_name": "Community 9"
+    },
+    {
+      "id": "backend_notes_backend",
+      "label": "Backend",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "community": 9,
+      "community_name": "Community 9"
+    },
+    {
+      "id": "backend_notes_notes_features",
+      "label": "NOTES_FEATURES",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L73",
+      "community": 9,
+      "community_name": "Community 9"
+    },
+    {
+      "id": "backend_notes_normalisetags",
+      "label": "normaliseTags()",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L77",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "backend_notes_notestore",
+      "label": "NoteStore",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L84",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "backend_notes_notestore_constructor",
+      "label": ".constructor()",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L88",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "backend_notes_notestore_size",
+      "label": ".size()",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L92",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "backend_notes_notestore_all",
+      "label": ".all()",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L96",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "backend_notes_notestore_get",
+      "label": ".get()",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L100",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "backend_notes_notestore_insert",
+      "label": ".insert()",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L105",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "backend_notes_notestore_update",
+      "label": ".update()",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L123",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "backend_notes_notestore_delete",
+      "label": ".delete()",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L142",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "backend_notes_example_notes",
+      "label": "EXAMPLE_NOTES",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L148",
+      "community": 9,
+      "community_name": "Community 9"
+    },
+    {
+      "id": "backend_notes_inmemorynotesoptions",
+      "label": "InMemoryNotesOptions",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L168",
+      "community": 9,
+      "community_name": "Community 9"
+    },
+    {
+      "id": "backend_notes_samesecret",
+      "label": "sameSecret()",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L182",
+      "community": 9,
+      "community_name": "Community 9"
+    },
+    {
+      "id": "backend_notes_inmemorynotesbackend",
+      "label": "InMemoryNotesBackend",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L187",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "backend_notes_inmemorynotesbackend_constructor",
+      "label": ".constructor()",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L191",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "backend_notes_inmemorynotesbackend_describe",
+      "label": ".describe()",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L195",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "backend_notes_inmemorynotesbackend_connected",
+      "label": ".connected()",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L199",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "backend_notes_inmemorynotesbackend_connect",
+      "label": ".connect()",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L203",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "backend_notes_inmemorynotesbackend_issessionexpired",
+      "label": ".isSessionExpired()",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L220",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "backend_notes_inmemorynotesbackend_capabilities",
+      "label": ".capabilities()",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L224",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "backend_notes_inmemorynotesbackend_health",
+      "label": ".health()",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L228",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "backend_notes_inmemorynotesbackend_searchnotes",
+      "label": ".searchNotes()",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L232",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "backend_notes_inmemorynotesbackend_getnote",
+      "label": ".getNote()",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L256",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "backend_notes_inmemorynotesbackend_createnote",
+      "label": ".createNote()",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L260",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "backend_notes_inmemorynotesbackend_updatenote",
+      "label": ".updateNote()",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L264",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "backend_notes_inmemorynotesbackend_deletenote",
+      "label": ".deleteNote()",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L268",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "backend_notes_inmemorynotesbackend_listtags",
+      "label": ".listTags()",
+      "file_type": "code",
+      "source_file": "backend/notes.ts",
+      "source_location": "L272",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "handlers_basehandler",
+      "label": "BaseHandler.ts",
+      "file_type": "code",
+      "source_file": "handlers/BaseHandler.ts",
+      "source_location": "L1",
+      "community": 8,
+      "community_name": "Community 8"
+    },
+    {
+      "id": "handlers_basehandler_toolspec",
+      "label": "ToolSpec",
+      "file_type": "code",
+      "source_file": "handlers/BaseHandler.ts",
+      "source_location": "L16",
+      "community": 5,
+      "community_name": "Community 5"
+    },
+    {
+      "id": "handlers_basehandler_constructor",
+      "label": "constructor()",
+      "file_type": "code",
+      "source_file": "handlers/BaseHandler.ts",
+      "source_location": "L44",
+      "community": 8,
+      "community_name": "Community 8"
+    },
+    {
+      "id": "handlers_basehandler_trackrequest",
+      "label": "trackRequest()",
+      "file_type": "code",
+      "source_file": "handlers/BaseHandler.ts",
+      "source_location": "L48",
+      "community": 8,
+      "community_name": "Community 8"
+    },
+    {
+      "id": "handlers_basehandler_trackresponsebytes",
+      "label": "trackResponseBytes()",
+      "file_type": "code",
+      "source_file": "handlers/BaseHandler.ts",
+      "source_location": "L70",
+      "community": 8,
+      "community_name": "Community 8"
+    },
+    {
+      "id": "handlers_basehandler_getmetrics",
+      "label": "getMetrics()",
+      "file_type": "code",
+      "source_file": "handlers/BaseHandler.ts",
+      "source_location": "L77",
+      "community": 8,
+      "community_name": "Community 8"
+    },
+    {
+      "id": "handlers_basehandler_specs",
+      "label": "specs()",
+      "file_type": "code",
+      "source_file": "handlers/BaseHandler.ts",
+      "source_location": "L95",
+      "community": 8,
+      "community_name": "Community 8"
+    },
+    {
+      "id": "handlers_basehandler_gettools",
+      "label": "getTools()",
+      "file_type": "code",
+      "source_file": "handlers/BaseHandler.ts",
+      "source_location": "L103",
+      "community": 8,
+      "community_name": "Community 8"
+    },
+    {
+      "id": "handlers_basehandler_handle",
+      "label": "handle()",
+      "file_type": "code",
+      "source_file": "handlers/BaseHandler.ts",
+      "source_location": "L108",
+      "community": 8,
+      "community_name": "Community 8"
+    },
+    {
+      "id": "handlers_basehandler_envelope",
+      "label": "envelope()",
+      "file_type": "code",
+      "source_file": "handlers/BaseHandler.ts",
+      "source_location": "L142",
+      "community": 8,
+      "community_name": "Community 8"
+    },
+    {
+      "id": "handlers_basehandler_asmcperror",
+      "label": "asMcpError()",
+      "file_type": "code",
+      "source_file": "handlers/BaseHandler.ts",
+      "source_location": "L169",
+      "community": 8,
+      "community_name": "Community 8"
+    },
+    {
+      "id": "handlers_docshandlers",
+      "label": "DocsHandlers.ts",
+      "file_type": "code",
+      "source_file": "handlers/DocsHandlers.ts",
+      "source_location": "L1",
+      "community": 6,
+      "community_name": "Community 6"
+    },
+    {
+      "id": "handlers_docshandlers_docshandlers",
+      "label": "DocsHandlers",
+      "file_type": "code",
+      "source_file": "handlers/DocsHandlers.ts",
+      "source_location": "L27",
+      "community": 6,
+      "community_name": "Community 6"
+    },
+    {
+      "id": "handlers_docshandlers_basehandler",
+      "label": "BaseHandler",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "community": 6,
+      "community_name": "Community 6"
+    },
+    {
+      "id": "handlers_docshandlers_docshandlers_toolspecs",
+      "label": ".toolSpecs()",
+      "file_type": "code",
+      "source_file": "handlers/DocsHandlers.ts",
+      "source_location": "L28",
+      "community": 6,
+      "community_name": "Community 6"
+    },
+    {
+      "id": "handlers_docshandlers_docshandlers_readserverguide",
+      "label": ".readServerGuide()",
+      "file_type": "code",
+      "source_file": "handlers/DocsHandlers.ts",
+      "source_location": "L83",
+      "community": 6,
+      "community_name": "Community 6"
+    },
+    {
+      "id": "handlers_noteshandlers",
+      "label": "NotesHandlers.ts",
+      "file_type": "code",
+      "source_file": "handlers/NotesHandlers.ts",
+      "source_location": "L1",
+      "community": 5,
+      "community_name": "Community 5"
+    },
+    {
+      "id": "handlers_noteshandlers_requirestring",
+      "label": "requireString()",
+      "file_type": "code",
+      "source_file": "handlers/NotesHandlers.ts",
+      "source_location": "L28",
+      "community": 5,
+      "community_name": "Community 5"
+    },
+    {
+      "id": "handlers_noteshandlers_optionalstring",
+      "label": "optionalString()",
+      "file_type": "code",
+      "source_file": "handlers/NotesHandlers.ts",
+      "source_location": "L36",
+      "community": 5,
+      "community_name": "Community 5"
+    },
+    {
+      "id": "handlers_noteshandlers_optionaltags",
+      "label": "optionalTags()",
+      "file_type": "code",
+      "source_file": "handlers/NotesHandlers.ts",
+      "source_location": "L45",
+      "community": 5,
+      "community_name": "Community 5"
+    },
+    {
+      "id": "handlers_noteshandlers_noteshandlers",
+      "label": "NotesHandlers",
+      "file_type": "code",
+      "source_file": "handlers/NotesHandlers.ts",
+      "source_location": "L56",
+      "community": 5,
+      "community_name": "Community 5"
+    },
+    {
+      "id": "handlers_noteshandlers_basehandler",
+      "label": "BaseHandler",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "community": 5,
+      "community_name": "Community 5"
+    },
+    {
+      "id": "handlers_noteshandlers_noteshandlers_toolspecs",
+      "label": ".toolSpecs()",
+      "file_type": "code",
+      "source_file": "handlers/NotesHandlers.ts",
+      "source_location": "L57",
+      "community": 5,
+      "community_name": "Community 5"
+    },
+    {
+      "id": "handlers_noteshandlers_noteshandlers_searchnotes",
+      "label": ".searchNotes()",
+      "file_type": "code",
+      "source_file": "handlers/NotesHandlers.ts",
+      "source_location": "L238",
+      "community": 5,
+      "community_name": "Community 5"
+    },
+    {
+      "id": "handlers_noteshandlers_noteshandlers_readnote",
+      "label": ".readNote()",
+      "file_type": "code",
+      "source_file": "handlers/NotesHandlers.ts",
+      "source_location": "L267",
+      "community": 5,
+      "community_name": "Community 5"
+    },
+    {
+      "id": "handlers_noteshandlers_noteshandlers_createnote",
+      "label": ".createNote()",
+      "file_type": "code",
+      "source_file": "handlers/NotesHandlers.ts",
+      "source_location": "L276",
+      "community": 5,
+      "community_name": "Community 5"
+    },
+    {
+      "id": "handlers_noteshandlers_noteshandlers_updatenote",
+      "label": ".updateNote()",
+      "file_type": "code",
+      "source_file": "handlers/NotesHandlers.ts",
+      "source_location": "L285",
+      "community": 5,
+      "community_name": "Community 5"
+    },
+    {
+      "id": "handlers_noteshandlers_noteshandlers_deletenote",
+      "label": ".deleteNote()",
+      "file_type": "code",
+      "source_file": "handlers/NotesHandlers.ts",
+      "source_location": "L315",
+      "community": 5,
+      "community_name": "Community 5"
+    },
+    {
+      "id": "handlers_noteshandlers_noteshandlers_listtags",
+      "label": ".listTags()",
+      "file_type": "code",
+      "source_file": "handlers/NotesHandlers.ts",
+      "source_location": "L323",
+      "community": 5,
+      "community_name": "Community 5"
+    },
+    {
+      "id": "handlers_skillshandlers",
+      "label": "SkillsHandlers.ts",
+      "file_type": "code",
+      "source_file": "handlers/SkillsHandlers.ts",
+      "source_location": "L1",
+      "community": 5,
+      "community_name": "Community 5"
+    },
+    {
+      "id": "handlers_skillshandlers_skillshandlers",
+      "label": "SkillsHandlers",
+      "file_type": "code",
+      "source_file": "handlers/SkillsHandlers.ts",
+      "source_location": "L25",
+      "community": 5,
+      "community_name": "Community 5"
+    },
+    {
+      "id": "handlers_skillshandlers_basehandler",
+      "label": "BaseHandler",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "community": 5,
+      "community_name": "Community 5"
+    },
+    {
+      "id": "handlers_skillshandlers_skillshandlers_toolspecs",
+      "label": ".toolSpecs()",
+      "file_type": "code",
+      "source_file": "handlers/SkillsHandlers.ts",
+      "source_location": "L26",
+      "community": 5,
+      "community_name": "Community 5"
+    },
+    {
+      "id": "handlers_skillshandlers_skillshandlers_readskill",
+      "label": ".readSkill()",
+      "file_type": "code",
+      "source_file": "handlers/SkillsHandlers.ts",
+      "source_location": "L85",
+      "community": 5,
+      "community_name": "Community 5"
+    },
+    {
+      "id": "handlers_index",
+      "label": "index.ts",
+      "file_type": "code",
+      "source_file": "handlers/index.ts",
+      "source_location": "L1",
+      "community": 5,
+      "community_name": "Community 5"
+    },
+    {
+      "id": "handlers_index_createhandlers",
+      "label": "createHandlers()",
+      "file_type": "code",
+      "source_file": "handlers/index.ts",
+      "source_location": "L21",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "index",
+      "label": "index.ts",
+      "file_type": "code",
+      "source_file": "index.ts",
+      "source_location": "L1",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "index_here",
+      "label": "HERE",
+      "file_type": "code",
+      "source_file": "index.ts",
+      "source_location": "L21",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "index_server",
+      "label": "server",
+      "file_type": "code",
+      "source_file": "index.ts",
+      "source_location": "L31",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "lib_capabilitygate",
+      "label": "capabilityGate.ts",
+      "file_type": "code",
+      "source_file": "lib/capabilityGate.ts",
+      "source_location": "L1",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "lib_capabilitygate_gatedfeature",
+      "label": "GatedFeature",
+      "file_type": "code",
+      "source_file": "lib/capabilityGate.ts",
+      "source_location": "L22",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "lib_capabilitygate_gated_features",
+      "label": "GATED_FEATURES",
+      "file_type": "code",
+      "source_file": "lib/capabilityGate.ts",
+      "source_location": "L38",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "lib_capabilitygate_gateresult",
+      "label": "GateResult",
+      "file_type": "code",
+      "source_file": "lib/capabilityGate.ts",
+      "source_location": "L42",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "lib_capabilitygate_evaluategate",
+      "label": "evaluateGate()",
+      "file_type": "code",
+      "source_file": "lib/capabilityGate.ts",
+      "source_location": "L60",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "lib_capabilitygate_gatingenabled",
+      "label": "gatingEnabled()",
+      "file_type": "code",
+      "source_file": "lib/capabilityGate.ts",
+      "source_location": "L89",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "lib_env",
+      "label": "env.ts",
+      "file_type": "code",
+      "source_file": "lib/env.ts",
+      "source_location": "L1",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "lib_env_parselist",
+      "label": "parseList()",
+      "file_type": "code",
+      "source_file": "lib/env.ts",
+      "source_location": "L2",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "lib_env_parseflag",
+      "label": "parseFlag()",
+      "file_type": "code",
+      "source_file": "lib/env.ts",
+      "source_location": "L10",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "lib_guides",
+      "label": "guides.ts",
+      "file_type": "code",
+      "source_file": "lib/guides.ts",
+      "source_location": "L1",
+      "community": 6,
+      "community_name": "Community 6"
+    },
+    {
+      "id": "lib_guides_guidedefinition",
+      "label": "GuideDefinition",
+      "file_type": "code",
+      "source_file": "lib/guides.ts",
+      "source_location": "L16",
+      "community": 6,
+      "community_name": "Community 6"
+    },
+    {
+      "id": "lib_guides_guides",
+      "label": "GUIDES",
+      "file_type": "code",
+      "source_file": "lib/guides.ts",
+      "source_location": "L30",
+      "community": 6,
+      "community_name": "Community 6"
+    },
+    {
+      "id": "lib_guides_guideuri",
+      "label": "guideUri()",
+      "file_type": "code",
+      "source_file": "lib/guides.ts",
+      "source_location": "L87",
+      "community": 6,
+      "community_name": "Community 6"
+    },
+    {
+      "id": "lib_guides_guidebyid",
+      "label": "guideById()",
+      "file_type": "code",
+      "source_file": "lib/guides.ts",
+      "source_location": "L89",
+      "community": 6,
+      "community_name": "Community 6"
+    },
+    {
+      "id": "lib_guides_guidebyuri",
+      "label": "guideByUri()",
+      "file_type": "code",
+      "source_file": "lib/guides.ts",
+      "source_location": "L93",
+      "community": 6,
+      "community_name": "Community 6"
+    },
+    {
+      "id": "lib_guides_guidenotfounderror",
+      "label": "GuideNotFoundError",
+      "file_type": "code",
+      "source_file": "lib/guides.ts",
+      "source_location": "L100",
+      "community": 6,
+      "community_name": "Community 6"
+    },
+    {
+      "id": "lib_guides_readguidefile",
+      "label": "readGuideFile()",
+      "file_type": "code",
+      "source_file": "lib/guides.ts",
+      "source_location": "L102",
+      "community": 6,
+      "community_name": "Community 6"
+    },
+    {
+      "id": "lib_guides_guidesection",
+      "label": "GuideSection",
+      "file_type": "code",
+      "source_file": "lib/guides.ts",
+      "source_location": "L114",
+      "community": 6,
+      "community_name": "Community 6"
+    },
+    {
+      "id": "lib_guides_listsections",
+      "label": "listSections()",
+      "file_type": "code",
+      "source_file": "lib/guides.ts",
+      "source_location": "L126",
+      "community": 6,
+      "community_name": "Community 6"
+    },
+    {
+      "id": "lib_guides_extractsection",
+      "label": "extractSection()",
+      "file_type": "code",
+      "source_file": "lib/guides.ts",
+      "source_location": "L159",
+      "community": 6,
+      "community_name": "Community 6"
+    },
+    {
+      "id": "lib_guides_guideindex",
+      "label": "guideIndex()",
+      "file_type": "code",
+      "source_file": "lib/guides.ts",
+      "source_location": "L186",
+      "community": 6,
+      "community_name": "Community 6"
+    },
+    {
+      "id": "lib_http",
+      "label": "http.ts",
+      "file_type": "code",
+      "source_file": "lib/http.ts",
+      "source_location": "L1",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "lib_http_resolvetransportmode",
+      "label": "resolveTransportMode()",
+      "file_type": "code",
+      "source_file": "lib/http.ts",
+      "source_location": "L15",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "lib_http_extractbearertoken",
+      "label": "extractBearerToken()",
+      "file_type": "code",
+      "source_file": "lib/http.ts",
+      "source_location": "L25",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "lib_http_readjsonbody",
+      "label": "readJsonBody()",
+      "file_type": "code",
+      "source_file": "lib/http.ts",
+      "source_location": "L32",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "lib_http_writejsonrpcerror",
+      "label": "writeJsonRpcError()",
+      "file_type": "code",
+      "source_file": "lib/http.ts",
+      "source_location": "L57",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "lib_http_normalizeorigin",
+      "label": "normalizeOrigin()",
+      "file_type": "code",
+      "source_file": "lib/http.ts",
+      "source_location": "L64",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "lib_http_originpolicy",
+      "label": "OriginPolicy",
+      "file_type": "code",
+      "source_file": "lib/http.ts",
+      "source_location": "L77",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "lib_http_resolveoriginpolicy",
+      "label": "resolveOriginPolicy()",
+      "file_type": "code",
+      "source_file": "lib/http.ts",
+      "source_location": "L98",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "lib_http_originallowed",
+      "label": "originAllowed()",
+      "file_type": "code",
+      "source_file": "lib/http.ts",
+      "source_location": "L106",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "lib_http_resolveallowedhosts",
+      "label": "resolveAllowedHosts()",
+      "file_type": "code",
+      "source_file": "lib/http.ts",
+      "source_location": "L111",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "lib_http_hostallowed",
+      "label": "hostAllowed()",
+      "file_type": "code",
+      "source_file": "lib/http.ts",
+      "source_location": "L121",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "lib_http_ratelimiter",
+      "label": "RateLimiter",
+      "file_type": "code",
+      "source_file": "lib/http.ts",
+      "source_location": "L131",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "lib_http_createratelimiter",
+      "label": "createRateLimiter()",
+      "file_type": "code",
+      "source_file": "lib/http.ts",
+      "source_location": "L146",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "lib_http_ratelimitkey",
+      "label": "rateLimitKey()",
+      "file_type": "code",
+      "source_file": "lib/http.ts",
+      "source_location": "L185",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "lib_instructions",
+      "label": "instructions.ts",
+      "file_type": "code",
+      "source_file": "lib/instructions.ts",
+      "source_location": "L1",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "lib_instructions_serverinstructions",
+      "label": "serverInstructions()",
+      "file_type": "code",
+      "source_file": "lib/instructions.ts",
+      "source_location": "L17",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "lib_logger",
+      "label": "logger.ts",
+      "file_type": "code",
+      "source_file": "lib/logger.ts",
+      "source_location": "L1",
+      "community": 8,
+      "community_name": "Community 8"
+    },
+    {
+      "id": "lib_logger_loglevel",
+      "label": "LogLevel",
+      "file_type": "code",
+      "source_file": "lib/logger.ts",
+      "source_location": "L1",
+      "community": 8,
+      "community_name": "Community 8"
+    },
+    {
+      "id": "lib_logger_createlogger",
+      "label": "createLogger()",
+      "file_type": "code",
+      "source_file": "lib/logger.ts",
+      "source_location": "L3",
+      "community": 8,
+      "community_name": "Community 8"
+    },
+    {
+      "id": "lib_logger_log",
+      "label": "log()",
+      "file_type": "code",
+      "source_file": "lib/logger.ts",
+      "source_location": "L16",
+      "community": 8,
+      "community_name": "Community 8"
+    },
+    {
+      "id": "lib_logger_logger",
+      "label": "Logger",
+      "file_type": "code",
+      "source_file": "lib/logger.ts",
+      "source_location": "L34",
+      "community": 8,
+      "community_name": "Community 8"
+    },
+    {
+      "id": "lib_profiles",
+      "label": "profiles.ts",
+      "file_type": "code",
+      "source_file": "lib/profiles.ts",
+      "source_location": "L1",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "lib_profiles_profilename",
+      "label": "ProfileName",
+      "file_type": "code",
+      "source_file": "lib/profiles.ts",
+      "source_location": "L22",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "lib_profiles_guidance",
+      "label": "GUIDANCE",
+      "file_type": "code",
+      "source_file": "lib/profiles.ts",
+      "source_location": "L25",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "lib_profiles_read",
+      "label": "READ",
+      "file_type": "code",
+      "source_file": "lib/profiles.ts",
+      "source_location": "L28",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "lib_profiles_core_write",
+      "label": "CORE_WRITE",
+      "file_type": "code",
+      "source_file": "lib/profiles.ts",
+      "source_location": "L31",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "lib_profiles_analysis",
+      "label": "ANALYSIS",
+      "file_type": "code",
+      "source_file": "lib/profiles.ts",
+      "source_location": "L34",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "lib_profiles_profiledefinition",
+      "label": "ProfileDefinition",
+      "file_type": "code",
+      "source_file": "lib/profiles.ts",
+      "source_location": "L36",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "lib_profiles_profiles",
+      "label": "PROFILES",
+      "file_type": "code",
+      "source_file": "lib/profiles.ts",
+      "source_location": "L42",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "lib_profiles_profile_names",
+      "label": "PROFILE_NAMES",
+      "file_type": "code",
+      "source_file": "lib/profiles.ts",
+      "source_location": "L62",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "lib_profiles_profileerror",
+      "label": "ProfileError",
+      "file_type": "code",
+      "source_file": "lib/profiles.ts",
+      "source_location": "L67",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "lib_profiles_resolveprofile",
+      "label": "resolveProfile()",
+      "file_type": "code",
+      "source_file": "lib/profiles.ts",
+      "source_location": "L74",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "lib_profiles_applyprofile",
+      "label": "applyProfile()",
+      "file_type": "code",
+      "source_file": "lib/profiles.ts",
+      "source_location": "L94",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "lib_responsebudget",
+      "label": "responseBudget.ts",
+      "file_type": "code",
+      "source_file": "lib/responseBudget.ts",
+      "source_location": "L1",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "lib_responsebudget_profile_response_budgets",
+      "label": "PROFILE_RESPONSE_BUDGETS",
+      "file_type": "code",
+      "source_file": "lib/responseBudget.ts",
+      "source_location": "L21",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "lib_responsebudget_responsebudgeterror",
+      "label": "ResponseBudgetError",
+      "file_type": "code",
+      "source_file": "lib/responseBudget.ts",
+      "source_location": "L31",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "lib_responsebudget_resolveresponsebudget",
+      "label": "resolveResponseBudget()",
+      "file_type": "code",
+      "source_file": "lib/responseBudget.ts",
+      "source_location": "L38",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "lib_responsebudget_toolresulttext",
+      "label": "toolResultText()",
+      "file_type": "code",
+      "source_file": "lib/responseBudget.ts",
+      "source_location": "L56",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "lib_responsebudget_toolresultbytes",
+      "label": "toolResultBytes()",
+      "file_type": "code",
+      "source_file": "lib/responseBudget.ts",
+      "source_location": "L64",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "lib_responsebudget_narrowinghint",
+      "label": "narrowingHint()",
+      "file_type": "code",
+      "source_file": "lib/responseBudget.ts",
+      "source_location": "L83",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "lib_responsebudget_cappedresult",
+      "label": "CappedResult",
+      "file_type": "code",
+      "source_file": "lib/responseBudget.ts",
+      "source_location": "L87",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "lib_responsebudget_captoolresult",
+      "label": "capToolResult()",
+      "file_type": "code",
+      "source_file": "lib/responseBudget.ts",
+      "source_location": "L104",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "lib_serverinfo",
+      "label": "serverInfo.ts",
+      "file_type": "code",
+      "source_file": "lib/serverInfo.ts",
+      "source_location": "L1",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "lib_serverinfo_project_root",
+      "label": "PROJECT_ROOT",
+      "file_type": "code",
+      "source_file": "lib/serverInfo.ts",
+      "source_location": "L20",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "lib_serverinfo_packagejson",
+      "label": "packageJson",
+      "file_type": "code",
+      "source_file": "lib/serverInfo.ts",
+      "source_location": "L22",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "lib_serverinfo_server_info",
+      "label": "SERVER_INFO",
+      "file_type": "code",
+      "source_file": "lib/serverInfo.ts",
+      "source_location": "L24",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "lib_serverinfo_resource_scheme",
+      "label": "RESOURCE_SCHEME",
+      "file_type": "code",
+      "source_file": "lib/serverInfo.ts",
+      "source_location": "L35",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "lib_skills",
+      "label": "skills.ts",
+      "file_type": "code",
+      "source_file": "lib/skills.ts",
+      "source_location": "L1",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "lib_skills_skill",
+      "label": "Skill",
+      "file_type": "code",
+      "source_file": "lib/skills.ts",
+      "source_location": "L20",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "lib_skills_skilluri",
+      "label": "skillUri()",
+      "file_type": "code",
+      "source_file": "lib/skills.ts",
+      "source_location": "L39",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "lib_skills_skills_root",
+      "label": "SKILLS_ROOT",
+      "file_type": "code",
+      "source_file": "lib/skills.ts",
+      "source_location": "L43",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "lib_skills_parsefrontmatter",
+      "label": "parseFrontmatter()",
+      "file_type": "code",
+      "source_file": "lib/skills.ts",
+      "source_location": "L50",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "lib_skills_walkforskills",
+      "label": "walkForSkills()",
+      "file_type": "code",
+      "source_file": "lib/skills.ts",
+      "source_location": "L76",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "lib_skills_supportingfiles",
+      "label": "supportingFiles()",
+      "file_type": "code",
+      "source_file": "lib/skills.ts",
+      "source_location": "L98",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "lib_skills_discoverskills",
+      "label": "discoverSkills()",
+      "file_type": "code",
+      "source_file": "lib/skills.ts",
+      "source_location": "L121",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "lib_skills_resetskillcache",
+      "label": "resetSkillCache()",
+      "file_type": "code",
+      "source_file": "lib/skills.ts",
+      "source_location": "L171",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "lib_skills_findskill",
+      "label": "findSkill()",
+      "file_type": "code",
+      "source_file": "lib/skills.ts",
+      "source_location": "L175",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "lib_skills_skillbyuri",
+      "label": "skillByUri()",
+      "file_type": "code",
+      "source_file": "lib/skills.ts",
+      "source_location": "L182",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "lib_skills_skillfileerror",
+      "label": "SkillFileError",
+      "file_type": "code",
+      "source_file": "lib/skills.ts",
+      "source_location": "L188",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "lib_skills_readskillfile",
+      "label": "readSkillFile()",
+      "file_type": "code",
+      "source_file": "lib/skills.ts",
+      "source_location": "L196",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "lib_skills_skillcollectionsummary",
+      "label": "SkillCollectionSummary",
+      "file_type": "code",
+      "source_file": "lib/skills.ts",
+      "source_location": "L218",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "lib_skills_skillcollections",
+      "label": "skillCollections()",
+      "file_type": "code",
+      "source_file": "lib/skills.ts",
+      "source_location": "L225",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "lib_tooldocs",
+      "label": "toolDocs.ts",
+      "file_type": "code",
+      "source_file": "lib/toolDocs.ts",
+      "source_location": "L1",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "lib_tooldocs_toolfamily",
+      "label": "ToolFamily",
+      "file_type": "code",
+      "source_file": "lib/toolDocs.ts",
+      "source_location": "L19",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "lib_tooldocs_labels",
+      "label": "LABELS",
+      "file_type": "code",
+      "source_file": "lib/toolDocs.ts",
+      "source_location": "L31",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "lib_tooldocs_labelfor",
+      "label": "labelFor()",
+      "file_type": "code",
+      "source_file": "lib/toolDocs.ts",
+      "source_location": "L36",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "lib_tooldocs_collecttoolfamilies",
+      "label": "collectToolFamilies()",
+      "file_type": "code",
+      "source_file": "lib/toolDocs.ts",
+      "source_location": "L48",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "lib_tooldocs_cell",
+      "label": "cell()",
+      "file_type": "code",
+      "source_file": "lib/toolDocs.ts",
+      "source_location": "L60",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "lib_tooldocs_describeproperty",
+      "label": "describeProperty()",
+      "file_type": "code",
+      "source_file": "lib/toolDocs.ts",
+      "source_location": "L70",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "lib_tooldocs_describeannotations",
+      "label": "describeAnnotations()",
+      "file_type": "code",
+      "source_file": "lib/toolDocs.ts",
+      "source_location": "L85",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "lib_tooldocs_rendertool",
+      "label": "renderTool()",
+      "file_type": "code",
+      "source_file": "lib/toolDocs.ts",
+      "source_location": "L100",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "lib_tooldocs_rendertoolreference",
+      "label": "renderToolReference()",
+      "file_type": "code",
+      "source_file": "lib/toolDocs.ts",
+      "source_location": "L128",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "server",
+      "label": "server.ts",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L1",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "server_tool_aliases",
+      "label": "TOOL_ALIASES",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L63",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "server_withtimeout",
+      "label": "withTimeout()",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L66",
+      "community": 7,
+      "community_name": "Community 7"
+    },
+    {
+      "id": "server_credentialdigest",
+      "label": "credentialDigest()",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L76",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "server_serverdependencies",
+      "label": "ServerDependencies",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L89",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "server_appserver",
+      "label": "AppServer",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L96",
+      "community": 7,
+      "community_name": "Community 7"
+    },
+    {
+      "id": "server_appserver_constructor",
+      "label": ".constructor()",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L129",
+      "community": 7,
+      "community_name": "Community 7"
+    },
+    {
+      "id": "server_appserver_buildtoolroutes",
+      "label": ".buildToolRoutes()",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L175",
+      "community": 7,
+      "community_name": "Community 7"
+    },
+    {
+      "id": "server_appserver_ensureconnected",
+      "label": ".ensureConnected()",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L209",
+      "community": 7,
+      "community_name": "Community 7"
+    },
+    {
+      "id": "server_appserver_ensuregate",
+      "label": ".ensureGate()",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L228",
+      "community": 7,
+      "community_name": "Community 7"
+    },
+    {
+      "id": "server_appserver_issessionexpired",
+      "label": ".isSessionExpired()",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L268",
+      "community": 7,
+      "community_name": "Community 7"
+    },
+    {
+      "id": "server_appserver_istoolresult",
+      "label": ".isToolResult()",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L277",
+      "community": 7,
+      "community_name": "Community 7"
+    },
+    {
+      "id": "server_appserver_serializeresult",
+      "label": ".serializeResult()",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L290",
+      "community": 7,
+      "community_name": "Community 7"
+    },
+    {
+      "id": "server_appserver_handleerror",
+      "label": ".handleError()",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L327",
+      "community": 7,
+      "community_name": "Community 7"
+    },
+    {
+      "id": "server_appserver_healthchecktool",
+      "label": ".healthcheckTool()",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L356",
+      "community": 7,
+      "community_name": "Community 7"
+    },
+    {
+      "id": "server_appserver_checkhealth",
+      "label": ".checkHealth()",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L385",
+      "community": 7,
+      "community_name": "Community 7"
+    },
+    {
+      "id": "server_appserver_healthcheck",
+      "label": ".healthcheck()",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L399",
+      "community": 7,
+      "community_name": "Community 7"
+    },
+    {
+      "id": "server_appserver_setupresourcehandlers",
+      "label": ".setupResourceHandlers()",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L449",
+      "community": 7,
+      "community_name": "Community 7"
+    },
+    {
+      "id": "server_appserver_setuptoolhandlers",
+      "label": ".setupToolHandlers()",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L490",
+      "community": 7,
+      "community_name": "Community 7"
+    },
+    {
+      "id": "server_appserver_explainstartupfailure",
+      "label": ".explainStartupFailure()",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L575",
+      "community": 7,
+      "community_name": "Community 7"
+    },
+    {
+      "id": "server_appserver_bootstrap",
+      "label": ".bootstrap()",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L592",
+      "community": 7,
+      "community_name": "Community 7"
+    },
+    {
+      "id": "server_appserver_run",
+      "label": ".run()",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L602",
+      "community": 7,
+      "community_name": "Community 7"
+    },
+    {
+      "id": "server_appserver_createsessionserver",
+      "label": ".createSessionServer()",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L633",
+      "community": 7,
+      "community_name": "Community 7"
+    },
+    {
+      "id": "server_appserver_runhttp",
+      "label": ".runHttp()",
+      "file_type": "code",
+      "source_file": "server.ts",
+      "source_location": "L652",
+      "community": 7,
+      "community_name": "Community 7"
+    },
+    {
+      "id": "types_tools",
+      "label": "tools.ts",
+      "file_type": "code",
+      "source_file": "types/tools.ts",
+      "source_location": "L1",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "types_tools_toolproperty",
+      "label": "ToolProperty",
+      "file_type": "code",
+      "source_file": "types/tools.ts",
+      "source_location": "L7",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "types_tools_toolannotations",
+      "label": "ToolAnnotations",
+      "file_type": "code",
+      "source_file": "types/tools.ts",
+      "source_location": "L52",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "types_tools_tooldefinition",
+      "label": "ToolDefinition",
+      "file_type": "code",
+      "source_file": "types/tools.ts",
+      "source_location": "L65",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "Project_Architecture",
+      "label": "Project Architecture",
+      "type": "concept",
+      "_origin": "semantic"
+    },
+    {
+      "id": "Backend_Abstraction",
+      "label": "Backend Abstraction",
+      "type": "concept",
+      "_origin": "semantic"
+    },
+    {
+      "id": "Handler_Contract",
+      "label": "Handler Contract",
+      "type": "concept",
+      "_origin": "semantic"
+    },
+    {
+      "id": "Capability_Gate",
+      "label": "Capability Gate",
+      "type": "concept",
+      "_origin": "semantic"
+    },
+    {
+      "id": "Response_Budget",
+      "label": "Response Budget",
+      "type": "concept",
+      "_origin": "semantic"
+    },
+    {
+      "id": "Domain_Layer",
+      "label": "Domain_Layer",
+      "type": "concept",
+      "_origin": "semantic"
+    },
+    {
+      "id": "Skill_System",
+      "label": "Skill System",
+      "type": "concept",
+      "_origin": "semantic"
+    },
+    {
+      "id": "Client_Resources",
+      "label": "Client Resources",
+      "type": "concept",
+      "_origin": "semantic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Project_Architecture",
+      "target": "Backend_Abstraction",
+      "label": "contains",
+      "_origin": "semantic"
+    },
+    {
+      "source": "Project_Architecture",
+      "target": "Handler_Contract",
+      "label": "contains",
+      "_origin": "semantic"
+    },
+    {
+      "source": "Backend_Abstraction",
+      "target": "Domain_Layer",
+      "label": "governs",
+      "_origin": "semantic"
+    },
+    {
+      "source": "Handler_Contract",
+      "target": "Response_Budget",
+      "label": "implements",
+      "_origin": "semantic"
+    },
+    {
+      "source": "Capability_Gate",
+      "target": "Domain_Layer",
+      "label": "protects",
+      "_origin": "semantic"
+    },
+    {
+      "source": "Skill_System",
+      "target": "Project_Architecture",
+      "label": "enhances",
+      "_origin": "semantic"
+    },
+    {
+      "source": "Client_Resources",
+      "target": "Project_Architecture",
+      "label": "explains",
+      "_origin": "semantic"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}
